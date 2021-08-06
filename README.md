@@ -8,4 +8,4 @@ You can see this image to clear the point
 
 
 # Here is the Example Image
-<img src="/assets/processed.jpg" alt="drawing" width="30%" alt="My cool Screenshots"/>
+<img src="/assets/processed.jpg" alt="drawing" width="50%" height="50%" alt="My cool Screenshots"/>
